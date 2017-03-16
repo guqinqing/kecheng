@@ -26,4 +26,5 @@
 | 周恩静    | 2014082334 |   https://YSJSYSGS.github.io/  |
 | 夏鲁斌    | 2014082208 |   https://lifeisadream.github.io/  |
 | 许天正 |2014082107 |   https://Gardenia1021.github.io/  |
-| 徐丹丽    | 2014082131 |   https://xudanli2809.github.io/  |
+| 徐丹丽    | 2014082131 |   https://xudanli2809.github.io/  |
+| 张晓娟   | 2014082319 |   https://Cherry19.github.io/  |
