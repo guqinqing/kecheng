@@ -28,3 +28,9 @@
 | 许天正    |2014082107  |   https://Gardenia1021.github.io/  |
 | 徐丹丽    | 2014082131 |   https://xudanli2809.github.io/  |
 | 陈佳慧    | 2014082431 |   https://pumpkinchen.github.io/  |
+| 姜晶    | 2014082128 |   https://lolipop-b612.github.io  |
+| 谈秋儿    | 2014082137 |   https://neopolitandreamsAugust.github.io  |
+| 邹丽芳    | 2014082325 |   https://China25.github.io/  |
+| 柳叶      | 2014082119 | https://liuloveMay.github.io    |
+
+
