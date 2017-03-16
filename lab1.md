@@ -43,7 +43,7 @@
 
 | 刘伦胜  | 2014082113   | https://liulunsheng.github.io    |
 
-| 蒋欣怡  | 2014082424   | https://jessciary.github.io     |
+| 蒋欣怡  | 2014082424 | https://jessciary.github.io  |
 
 
 
