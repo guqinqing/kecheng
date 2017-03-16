@@ -27,3 +27,6 @@
 | 夏鲁斌    | 2014082208 |   https://lifeisadream.github.io/  |
 | 许天正 |2014082107 |   https://Gardenia1021.github.io/  |
 | 徐丹丽    | 2014082131 |   https://xudanli2809.github.io/  |
+| 刘恒    | 2014082220 |   https://liuhengd.github.io/  |
+| 周鑫   | 2014082223 |   https://zhouxinvi.github.io/  |
+| 陈雪    | 2014082237 |   https://chenxuean.github.io/  |
